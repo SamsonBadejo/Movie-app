@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SamsonBadejo/Movie-app.git/static/css/main.e7e5dee1.css",
+    "main.js": "/SamsonBadejo/Movie-app.git/static/js/main.6199707c.js",
+    "static/js/453.0b30a3d5.chunk.js": "/SamsonBadejo/Movie-app.git/static/js/453.0b30a3d5.chunk.js",
+    "index.html": "/SamsonBadejo/Movie-app.git/index.html",
+    "main.e7e5dee1.css.map": "/SamsonBadejo/Movie-app.git/static/css/main.e7e5dee1.css.map",
+    "main.6199707c.js.map": "/SamsonBadejo/Movie-app.git/static/js/main.6199707c.js.map",
+    "453.0b30a3d5.chunk.js.map": "/SamsonBadejo/Movie-app.git/static/js/453.0b30a3d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7e5dee1.css",
+    "static/js/main.6199707c.js"
+  ]
+}
